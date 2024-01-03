@@ -13,6 +13,8 @@
 
 </p>
 
+ایرانی هستید؟ [داکیومنشن فارسی](https://github.com/Bad-Discord/Discord-Nuker/persian_docs/)
+
 ### *Features :*
 > - [x] *Spam in all channels*
 > - [x] *Delete all Role*
