@@ -31,7 +31,7 @@
 > - [x] *دور زدن بات های امنیتی*
 > - [x] *پشتیبانی از پراکسی*
 > - [x] *پشتیبانی از سشن*
-## ⚗ Installation
+## ⚗ نصب و راه اندازی
 
 - اطمینان حاصل کنید که پایتون رو روی پیسی تون نصب کردید. 
 - [Python3.7.12](https://www.python.org/downloads/release/python-3712/) یا ورژن های بعد تر (بجز [Python3.12.0](https://www.python.org/downloads/release/python-3120/) چون اشغاله)
