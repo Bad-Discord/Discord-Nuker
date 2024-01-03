@@ -7,6 +7,11 @@
  <img src="https://img.shields.io/github/forks/Bad-Discord/Discord-Nuker?color=blue&label=Forks&style=flat-square" </a>
 </p>
 
+<p align="center">
+[<a href="https://github.com/Bad-Discord/Discord-Nuker/#installation"> How to install</a> ] - 
+[<a href="https://github.com/Bad-Discord/Discord-Nuker/Screenshots"> Screenshots</a> ]
+
+</p>
 
 ### *Features :*
 > - [x] *Spam in all channels*
