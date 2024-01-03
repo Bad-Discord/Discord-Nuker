@@ -36,12 +36,12 @@ for line in lines:
 else:
     if len(missing_modules) != 0:
         print("There is some missing modules that you don't have!")
-        print("The following command will be executed for installing those modules: " , "pip install " + "&&".join(missing_modules))
+        print("The following command will be executed for installing those modules: " , "pip install " + " && ".join(missing_modules))
         
         i = input("Do you want to install them? [y,n]")
 
         if i.lower().strip().startswith("y"):
-            os.system("pip install " + "&&".join(missing_modules))
+            os.system("pip install " + " && ".join(missing_modules))
 
         else:
             print("Goodbye !")
