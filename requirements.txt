@@ -1,0 +1,4 @@
+colorama==0.4.6
+requests==2.31.0
+asyncio==3.4.3
+pystyle==2.9

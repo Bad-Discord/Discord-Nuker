@@ -91,5 +91,11 @@ if you're Too lazy to copy and paste the same token every time; create a Session
 
 `SpamInviteLink`: Your server invite link that you want to spam it
 
+## 📸 Screenshots
 
+<img src="Screenshots/Screenshot1">
 
+## ⚠ Disclaimer
+
+This script is educational and fully coded by M. logique aka @1ogi in discord
+if you choose to abuse this tool it's are your fault and M. logique will not accept anything about you're mistake
