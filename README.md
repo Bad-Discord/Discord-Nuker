@@ -93,7 +93,7 @@ if you're Too lazy to copy and paste the same token every time; create a Session
 
 ## 📸 Screenshots
 
-<img src="Screenshots/Screenshot1">
+<img src="Screenshots/Screenshot1.png">
 
 ## ⚠ Disclaimer
 
