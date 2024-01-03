@@ -54,7 +54,7 @@ pkg update -y && pkg upgrade -y && pkg install python git && git clone https://g
 ## Usage
 
 ### Normal Usage
-> - Use python main.pt or run it manually by double click
+- Use `python main.py` or run it manually by double click
 
 ### Using Sessions
 
