@@ -10,7 +10,7 @@
 
 """
 
-#  CHECKING FOR REQUIREMENTS
+#  CHECKING FOR REQUIREMENTS.
 
 import sys, os
 
