@@ -42,7 +42,7 @@
 ### Windows: 
 - Click on the "Code" Button on this repo and download ZIP
 - Extract zip
-- Open a terminal and paste this code on it:
+- Open a terminal and paste this code in it:
 ```bash
 pip install -r requirements.txt; python main.python
 ``` 
@@ -80,7 +80,7 @@ if you're Too lazy to copy and paste the same token every time; create a Session
 
 ```json
 {
-    "Token": "You're Token",
+    "Token": "Your Token",
     "SpamTexts": ["Some Texts", "For Spam"],
     "SpamAmount": 50,
     "ServerName": "Logique Nuked this Guild Bruh!",
